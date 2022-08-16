@@ -1,4 +1,7 @@
-int main () {
+#include <stdio.h>
+#include <stdlib.h>
+
+main () {
 	
 	float n1, n2, resultado;
 	
