@@ -13,8 +13,6 @@ main () {
 	
     resultado = n1/n2;
 	
-	printf ("Resultado = %f\n\n", resultado);
-	
-	system ("pause");
+	printf ("Resultado = %.2f\n\n", resultado);
 
 }
