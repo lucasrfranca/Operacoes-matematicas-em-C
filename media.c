@@ -16,8 +16,6 @@ main () {
 	
 	media = (n1+n2)/2;
 	
-	printf ("A média dos dois números = %f\n\n", media);
-	
-	system ("pause");
+	printf ("A média dos dois números = %.2f\n\n", media);
 
 }
