@@ -10,6 +10,4 @@ main () {
 	printf ("%d", 8-6);
 	printf ("\n\n");
 	
-	system ("pause");
-	
 }
